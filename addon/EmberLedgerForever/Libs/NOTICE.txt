@@ -1,0 +1,10 @@
+Unmodified embedded libraries retrieved 2026-09-25 from https://repos.wowace.com/wow/libdbicon-1-0/trunk/ (each named library subfolder).
+LibStub revision 2: public domain, notice in source.
+CallbackHandler revision 8 and LibDBIcon revision 56: Ace3 Style BSD, see LICENSE-Ace3.txt.
+LibDBIcon license source: https://www.wowace.com/project/15552/license
+LibDataBroker revision 4: upstream README included; the upstream project explicitly instructs addon authors to hard-embed this library (https://www.wowace.com/projects/libdatabroker-1-1). Its project license is listed as All Rights Reserved; no broader license is asserted here; https://github.com/tekkub/libdatabroker-1-1
+
+CallbackHandler-1.0.lua SHA256 84a15af505e728ac5e5eb6a8eaba8989d1131d5f8ba14d11abcfe4ce086de3c1
+LibDataBroker-1.1.lua SHA256 f3d4758f2060215492c9764b1d7dc2a336826d4cd253cd54ff9ff7c6d78f04e2
+LibDBIcon-1.0.lua SHA256 85c426947fa50319071b64c7cb845326c44316341713a3847dc8149c1e36716b
+LibStub.lua SHA256 f93f7dfbd280c0f8e0328bb194faa6db541c3c50b3d4d37eb064c816f0ec5576

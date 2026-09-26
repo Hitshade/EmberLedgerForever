@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: EmberLedger: Forever
+## Notes: A single-window farming ledger for loot, coin, and estimated gold per hour.
+## Author: Hitshade
+## Version: 0.5.0
+## IconTexture: Interface\AddOns\EmberLedgerForever\Media\EmberLedgerLogo
+## OptionalDeps: TradeSkillMaster, Auctionator
+## SavedVariablesPerCharacter: EmberLedgerForeverDB
+## DefaultState: enabled
+
+Libs\LibStub.lua
+Libs\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0.lua
+Ledger.lua
+Loot.lua
+Core.lua
+Theme.lua
+UI.lua
+Options.lua
+History.lua
+Broker.lua

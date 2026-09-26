@@ -1,0 +1,16 @@
+# Keep only reviewed development files at the repository root.
+/*
+!/.gitignore
+!/README.md
+!/DEVELOPMENT.md
+!/requirements-dev.txt
+!/addon/
+!/tests/
+!/docs/
+/docs/*
+!/docs/GITHUB-BASELINE.md
+__pycache__/
+*.pyc
+*.zip
+.env*
+tests/last-run.txt
